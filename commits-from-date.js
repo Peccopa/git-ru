@@ -1,7 +1,7 @@
 import { execSync } from 'child_process';
 
 // ==== Настройки ====
-const startDate = new Date('1980-06-14'); // дата начала коммитов
+const startDate = new Date('1985-01-29'); // дата начала коммитов
 const endDate = new Date('2025-10-15'); // сегодня
 const commitsPerDay = 1; // сколько коммитов в день
 
