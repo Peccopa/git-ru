@@ -4,5 +4,6 @@
 
 ---
 
-git commit --date="2023-10-05 12:30:00" -m "docs: updated the README file"
-git commit --date="2023-10-06 12:30:00" -m "docs: updated the README file"
+git commit --date="2000-10-05 12:30:00" -m "docs: updated the README file"
+git commit --date="2000-10-06 12:30:00" -m "docs: updated the README file"
+git commit --date="2000-10-07 12:30:00" -m "docs: updated the README file"
