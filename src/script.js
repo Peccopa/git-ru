@@ -8,5 +8,5 @@ function hello1(str) {
 }
 hello1('Hello!');
 
-//feature
+//main
 
