@@ -1,0 +1,19 @@
+{
+  "name": "git-ru",
+  "version": "1.0.0",
+  "description": "____ Saturday commit   SUNDAY COMMIT   SUNDAY COMMIT   test commit #1   test commit #2   test commit #3   test commit #4 test commit #5 test commit #6",
+  "main": "new.js",
+  "scripts": {
+    "test": "",
+    "prepare": "husky"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^15.2.11"
+  },
+  "dependencies": {
+    "sass": "^1.92.1"
+  }
+}
